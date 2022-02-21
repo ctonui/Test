@@ -1,0 +1,222 @@
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\appsettings.json
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.exe
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.deps.json
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.runtimeconfig.json
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.runtimeconfig.dev.json
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\ref\TestAppilication.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.pdb
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.Views.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.Views.pdb
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.csproj.AssemblyReference.cache
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.AssemblyInfoInputs.cache
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.AssemblyInfo.cs
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.csproj.CoreCompileInputs.cache
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorAssemblyInfo.cache
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorAssemblyInfo.cs
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\staticwebassets\TestAppilication.StaticWebAssets.Manifest.cache
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\staticwebassets\TestAppilication.StaticWebAssets.xml
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\scopedcss\bundle\TestAppilication.styles.css
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.TagHelpers.input.cache
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.TagHelpers.output.cache
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorCoreGenerate.cache
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorTargetAssemblyInfo.cache
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorTargetAssemblyInfo.cs
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.Views.pdb
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.csproj.CopyComplete
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\ref\TestAppilication.dll
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.pdb
+C:\Users\chela\Hostel Booking\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.genruntimeconfig.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.exe
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.deps.json
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.runtimeconfig.json
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.runtimeconfig.dev.json
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\ref\TestAppilication.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.pdb
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.Views.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.Views.pdb
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.AssemblyInfo.cs
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorAssemblyInfo.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorAssemblyInfo.cs
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\staticwebassets\TestAppilication.StaticWebAssets.Manifest.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\staticwebassets\TestAppilication.StaticWebAssets.xml
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\scopedcss\bundle\TestAppilication.styles.css
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.TagHelpers.input.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.TagHelpers.output.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorCoreGenerate.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.Views.pdb
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.csproj.CopyComplete
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\ref\TestAppilication.dll
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.pdb
+C:\Users\USER\Downloads\TestAppilication\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.genruntimeconfig.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\appsettings.Development.json
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\appsettings.json
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.exe
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.deps.json
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.runtimeconfig.json
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.runtimeconfig.dev.json
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\ref\TestAppilication.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.pdb
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.Views.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\TestAppilication.Views.pdb
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Humanizer.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.ApplicationInsights.AspNetCore.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.AI.DependencyCollector.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.AI.EventCounterCollector.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.AI.PerfCounterCollector.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.AI.WindowsServer.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.csproj.AssemblyReference.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.AssemblyInfoInputs.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.AssemblyInfo.cs
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.csproj.CoreCompileInputs.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.MvcApplicationPartsAssemblyInfo.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorAssemblyInfo.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorAssemblyInfo.cs
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\staticwebassets\TestAppilication.StaticWebAssets.Manifest.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\staticwebassets\TestAppilication.StaticWebAssets.xml
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\scopedcss\bundle\TestAppilication.styles.css
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.TagHelpers.input.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.TagHelpers.output.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorCoreGenerate.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorTargetAssemblyInfo.cache
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.RazorTargetAssemblyInfo.cs
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.Views.pdb
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.csproj.CopyComplete
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\ref\TestAppilication.dll
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.pdb
+E:\Micropoint Docs\Projects\TestAppilication\TestAppilication\obj\Debug\net5.0\TestAppilication.genruntimeconfig.cache
