@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Micropoint Docs\\Projects\\TestAppilication\\TestAppilication\\TestAppilication.csproj": {}
+    "D:\\New folder\\TestAppilication\\TestAppilication\\TestAppilication.csproj": {}
   },
   "projects": {
-    "E:\\Micropoint Docs\\Projects\\TestAppilication\\TestAppilication\\TestAppilication.csproj": {
+    "D:\\New folder\\TestAppilication\\TestAppilication\\TestAppilication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Micropoint Docs\\Projects\\TestAppilication\\TestAppilication\\TestAppilication.csproj",
+        "projectUniqueName": "D:\\New folder\\TestAppilication\\TestAppilication\\TestAppilication.csproj",
         "projectName": "TestAppilication",
-        "projectPath": "E:\\Micropoint Docs\\Projects\\TestAppilication\\TestAppilication\\TestAppilication.csproj",
-        "packagesPath": "C:\\Users\\chela\\.nuget\\packages\\",
-        "outputPath": "E:\\Micropoint Docs\\Projects\\TestAppilication\\TestAppilication\\obj\\",
+        "projectPath": "D:\\New folder\\TestAppilication\\TestAppilication\\TestAppilication.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder\\TestAppilication\\TestAppilication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
